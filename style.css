@@ -1,0 +1,60 @@
+body, html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	background-image: url(thom.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Comfortaa', cursive;
+	text-transform: uppercase;
+}
+
+#row1 > h1 {
+	color: #C3C5C6;
+	font-size: 2rem;
+}
+
+#row1 {
+	text-align: center;
+	margin-top: 150px;
+}
+
+#row2 > hr {
+	color: white;
+	width: 70px;
+	border: 2px solid #E6633D;
+}
+
+#row2 {
+	text-align: center;
+	margin-top: 180px;
+}
+
+#row3 {
+	text-align: center;
+	margin-top: 15px;
+}
+
+.btn-warning {
+	width: auto;
+	background-color: #E6633D;
+	border-radius: 300px;
+	padding: 13px 35px;
+	border: 1px solid #E6633D;
+	color: white;
+	text-transform: uppercase;
+	transition: all 0.2s;
+}
+
+.btn-warning:hover {
+	width: auto;
+	background-color: #DA401B;
+	border-radius: 300px;
+	padding: 13px 35px;
+	border: 1px solid #DA401B;
+	color: white;
+	text-transform: uppercase;
+	transform: scale(1.05);
+}
