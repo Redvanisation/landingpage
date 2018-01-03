@@ -18,7 +18,7 @@ body {
 
 #row1 {
 	text-align: center;
-	margin-top: 150px;
+	margin-top: 9rem;
 }
 
 #row2 > hr {
@@ -29,12 +29,12 @@ body {
 
 #row2 {
 	text-align: center;
-	margin-top: 180px;
+	margin-top: 11.5rem;
 }
 
 #row3 {
 	text-align: center;
-	margin-top: 15px;
+	margin-top: 1rem;
 }
 
 .btn-warning {
